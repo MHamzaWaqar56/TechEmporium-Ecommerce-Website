@@ -1,3 +1,3 @@
 # TechEmporium-Ecommerce-Website
-An Ecommerce website developed using Mern Stack technology
+An Ecommerce website developed using Mern Stack technology.
 To get code of this website , go to the master branch.....
